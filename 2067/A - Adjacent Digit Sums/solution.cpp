@@ -127,7 +127,7 @@ void solve(){
     int x,y;
     cin >> x >> y;
     int d = (x+1-y);
-    if(d >= 0 && d % 9 == 0){
+    if(d>= 0 && d % 9 == 0){
         cout << "YES
 ";
     } else cout << "NO
