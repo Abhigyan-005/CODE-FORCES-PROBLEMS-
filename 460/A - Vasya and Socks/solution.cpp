@@ -3,12 +3,12 @@ using namespace std;
 int main(){
     int n,m;
     cin >> n >> m;
-    if(m>n) cout << n << endl;
-    else if(m==n) cout << n+1 << endl;
-    else if(m<n) {
-        cout << n+((n-1)/(m-1)) << endl;
-    }
-    return 0;
+    int days=0;
+    while(n>0){
+        n--;
+        days++;
+        if(days % m == 0){
+        n++;
+        }
+    } cout << days;
 }
- 
-//can we another methhod
