@@ -134,13 +134,13 @@ void solve(){
       // to maximize (min(c+x,a)-c) we will take c=1 as small as possible
       // because maximum allowed value of the timer "a" wastes any excess.
       // therefore min(1+x,a)−1=min(x,a−1)
-      long long x[n];
-      long long time = b;
-      for(int i=0; i<n ; i++){
-         cin >> x[i];
-         time = time + min(x[i] , a-1);
-      } cout << time << '
-';
+      //long long x[n];
+      long long ans = b;
+    for (int i = 0; i < n; i++) {
+    long long x;
+    cin >> x;
+    ans += min(x, a - 1);
+} cout << ans << endl;
 }
  
 int main(){
