@@ -6,18 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 8 |
+| 11 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (3)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
@@ -29,6 +30,12 @@
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### constructive algorithms
 
@@ -70,6 +77,7 @@
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### number theory
 
