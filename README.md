@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 9 |
+| 14 | 9 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (3)
 - [math](#math) (7)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [strings](#strings) (1)
 
 ---
@@ -85,6 +85,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 
 ### strings
