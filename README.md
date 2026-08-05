@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 13 |
+| 27 | 13 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (11)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (12)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
 
@@ -75,6 +75,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
@@ -88,6 +89,7 @@
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
@@ -122,6 +124,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 
 ### strings
