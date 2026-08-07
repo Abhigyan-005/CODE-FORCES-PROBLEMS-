@@ -132,12 +132,15 @@ void solve(){
     //    v.push_back(i);
     // }
     int flag=1;
-    for(int j=2;j<n;j++){
-    if(yo%j==0) flag=0;
+    for(int j=2;j*j<=yo;j++){
+    if(yo%j==0){
+        flag=0;
+        break;
     } 
-    if(flag==0) cout << "NO
+}
+    if(flag) cout << "YES
 ";
-    else cout << "YES
+    else cout << "NO
 ";
 }
  
