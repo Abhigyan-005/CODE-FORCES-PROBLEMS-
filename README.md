@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 13 |
+| 29 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -38,6 +38,7 @@
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### bitmasks
