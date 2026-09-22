@@ -6,22 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 14 |
+| 42 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (14)
+- [Uncategorized](#uncategorized) (15)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (16)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (3)
@@ -47,6 +47,7 @@
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### bitmasks
 
@@ -98,6 +99,7 @@
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 
 ### implementation
@@ -132,6 +134,7 @@
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhigyan-005/CODE-FORCES-PROBLEMS-/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
